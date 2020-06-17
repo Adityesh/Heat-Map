@@ -13,3 +13,19 @@ body h1, body p {
 }
 
 
+
+rect:hover {
+    fill: black;
+    stroke:white;
+}
+
+
+#tooltip {
+    padding: 10px 20px;
+    background-color : rgba(181,126,255,1);
+    box-shadow: 0 0 50px rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+
+
